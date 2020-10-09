@@ -20,7 +20,7 @@ public class Addition {
             }
         }
 
-        System.out.println("enter the  2nd array");
+        System.out.println("enter the  2nds array");
         for(int i=0;i<rows;i++)
            {
             for(int j=0;j<cols;j++)
